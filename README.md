@@ -27,4 +27,4 @@ Welcome to the Online Exam System repository! This system provides a platform fo
 - **Git**: Version control system used for collaboration and code management.
 
 ## Output
-<p align="center"><img src="" alt="Output" height=450 width=225></p>
+<p align="center"><img src="OnlineExamSystem.png" alt="Output" height=450 width=300></p>
